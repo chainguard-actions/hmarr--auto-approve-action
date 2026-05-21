@@ -8,11 +8,11 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v3.0.0 | [`v3.0.0`](https://github.com/chainguard-actions/auto-approve-action/tree/v3.0.0) | — |
-| v3.1.0 | [`v3.1.0`](https://github.com/chainguard-actions/auto-approve-action/tree/v3.1.0) | — |
-| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/auto-approve-action/tree/v3.2.0) | — |
-| v3.2.1 | [`v3.2.1`](https://github.com/chainguard-actions/auto-approve-action/tree/v3.2.1) | — |
-| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/auto-approve-action/tree/v4.0.0) | — |
+| v3.0.0 | [`v3.0.0`](https://github.com/chainguard-actions/hmarr--auto-approve-action/tree/v3.0.0) | — |
+| v3.1.0 | [`v3.1.0`](https://github.com/chainguard-actions/hmarr--auto-approve-action/tree/v3.1.0) | — |
+| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/hmarr--auto-approve-action/tree/v3.2.0) | — |
+| v3.2.1 | [`v3.2.1`](https://github.com/chainguard-actions/hmarr--auto-approve-action/tree/v3.2.1) | — |
+| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/hmarr--auto-approve-action/tree/v4.0.0) | — |
 
 ## Privacy
 
